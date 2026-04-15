@@ -23,6 +23,7 @@ docker build -t trendyol-scraper .
 
 # Konteyner'ı çalıştır
 docker run -p 8080:8080 trendyol-scraper
+
 ```
 
 ## Kullanım
